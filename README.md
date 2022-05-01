@@ -2,7 +2,7 @@
 ##### 2019-1H-Term-Project (2019.03 - 2019.06)  
 ---
 ## 개요
-본 프로젝트는 '검색량과 영화 관객수 사이의 상관관계 분석'을 주제로 합니다. Jupyter Notebook을 통해 작성하였고 Markdown과 Python으로 작성되었습니다. 'Correlation-Between-Search-Volume-and-Movie-Audience.ipynb'는 다음 일련의 내용을 담고 있습니다.
+본 프로젝트는 '검색량과 영화 관객수 사이의 상관관계 분석'을 주제로 합니다. Jupyter Notebook을 통해 작성하였고 Markdown과 Python으로 작성되었습니다. 'Correlation-Between-Search-Volume-and-Movie-Audience.ipynb'는 다음 일련의 내용을 포함합니다.
 > ### 목차 
 > 1.주제 선정 이유<br/>
 > 2.가설 설정<br/>
